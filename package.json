@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.20.0",
+    "@prisma/extension-accelerate": "^1.2.1",
+    "express": "^4.21.1",
+    "prisma": "^5.20.0"
+  }
+}
